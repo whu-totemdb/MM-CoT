@@ -1,0 +1,902 @@
+[
+  {
+    "question": "Who is the author(or authors) of the paper \"Fast-response Pancharatnam-Berry phase optical elements based on polymer-stabilized liquid crystal.\"?",
+    "answer": "Shuxin Liu, Shuyi Chen, Sida Li, Yan Li, Yikai Su, and Yueda Liu",
+    "id": 1,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Effects of alumina nanoparticles on the microstructure, strength and wear resistance of poly(methyl methacrylate)-based nanocomposites prepared by friction stir processing.\"?",
+    "answer": "Abdolreza Simchi and Hamed Aghajani Derazkola",
+    "id": 2,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"A new technique to seal volatile-rich samples into platinum capsules\"?",
+    "answer": "Andreas Audétat and Enikö Bali",
+    "id": 3,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Reconstruction of energy spectrum of runaway electrons in nanosecond-pulse discharges in atmospheric air\"?",
+    "answer": "Bangdou Huang, Cheng Zhang, Jintao Qiu, Tao Shao, and Zehui Liu",
+    "id": 4,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Asymmetric fission of 235U nuclei induced by thermal neutrons and fast neutrons of pulsed nuclear reactors\"?",
+    "answer": "V. D. Sevast’yanov",
+    "id": 5,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Computational Analyses of Flow and Heat Transfer at 60° Position of 180° Curved Duct of Square Cross-Section\"?",
+    "answer": "Houssem Laidoudi, Mohamed Bouzit, and Mourad Mokeddem",
+    "id": 6,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Erratum: Temporal and spatial evolution of Si atoms in plasmas produced by a nanosecond laser ablating silicon carbide crystals [Phys. Rev. E 80, 016405 (2009)]\"?",
+    "answer": "Baoyuan Man, Chuansong Chen, Ming Chen, Mingwen Zhao, and Xiangdong Liu",
+    "id": 7,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Analysis of near-infrared spectroscopy and indocyanine green dye dilution with Monte Carlo simulation of light propagation in the adult brain.\"?",
+    "answer": "Andreas Nadler, Emanuela Keller, Peter F. Niederer, and Regina Mudra",
+    "id": 8,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Surface modification of polyhedral nanocrystalline MgO with imidazolium carboxylates for dehydration reactions: a new approach\"?",
+    "answer": "Atyam Kiran Kumar, Kalluri V. S. Ranganath, Mahendra Sahu, Melad Shaikh, Pathik Maji, and Santimoy Khilari",
+    "id": 9,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Improved Process to Obtain Nanofibrillated Cellulose (CNF) Reinforced Starch Films with Upgraded Mechanical Properties and Barrier Character\"?",
+    "answer": "Helena Oliver-Ortega, José A. Méndez, Jose M. Lagaron, L.A. Granda, M. A. Pèlach, María José Fabra, and Quim Tarrés",
+    "id": 10,
+    "template_id": 1
+  },
+  {
+    "question": "Which affiliation is Yaming Cao associated with?",
+    "answer": "East China University of Science and Technology",
+    "id": 11,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is 彰夫 小森 associated with?",
+    "answer": "Kyushu University",
+    "id": 12,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Claas Bierwisch associated with?",
+    "answer": "Fraunhofer Society",
+    "id": 13,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Isabel Tanarro associated with?",
+    "answer": "Spanish National Research Council",
+    "id": 14,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Wilhelm Nikonow associated with?",
+    "answer": "Institute for Geosciences and Natural Resources",
+    "id": 15,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Min-Kyu Paek associated with?",
+    "answer": "Hanyang University",
+    "id": 16,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Xiaoqing Bo associated with?",
+    "answer": "Jilin University",
+    "id": 17,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is H.S. da Costa Mattos associated with?",
+    "answer": "Federal Fluminense University",
+    "id": 18,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Alex Sincore associated with?",
+    "answer": "University of Central Florida",
+    "id": 19,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Ching-Hsing Kao associated with?",
+    "answer": "National Defense University",
+    "id": 20,
+    "template_id": 2
+  },
+  {
+    "question": "How many papers cite the paper \"Influence of nonstoichiometry on ferroelectric phase transition in BaTiO3\"?",
+    "answer": "77",
+    "id": 21,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Health monitoring in continuous glass fibre reinforced thermoplastics: Tailored sensitivity and cyclic loading of CNT-based interphase sensors\"?",
+    "answer": "61",
+    "id": 22,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Cross-Linked Random Copolymer Mats As Ultrathin Nonpreferential Layers for Block Copolymer Self-Assembly\"?",
+    "answer": "52",
+    "id": 23,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Examination of moisture sensitivity of aggregate–bitumen bonding strength using loose asphalt mixture and physico-chemical surface energy property tests\"?",
+    "answer": "52",
+    "id": 24,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Microstructural and compositional aspects of ZnO-based varistor ceramics prepared by direct mixing of the constituent phases and high-energy milling\"?",
+    "answer": "37",
+    "id": 25,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Fatigue behaviour of sea sand concrete beams reinforced with basalt fibre-reinforced polymer bars\"?",
+    "answer": "30",
+    "id": 26,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Temperature-modulated DSC study of phase transformations in nickel-titanium orthodontic wires\"?",
+    "answer": "28",
+    "id": 27,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Multiblock Copolymers of Styrene and Butyl Acrylate via Polytrithiocarbonate-Mediated RAFT Polymerization\"?",
+    "answer": "21",
+    "id": 28,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Rubber toughening of glass fiber reinforced nylon‐6,6 with functionalized block copolymer SEBS‐g‐MA\"?",
+    "answer": "15",
+    "id": 29,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"High Reliability of 0.1 μm InGaAs/InAlAs/InP High Electron Mobility Transistors Microwave Monolithic Integrated Circuit on 3-inch InP Substrates\"?",
+    "answer": "13",
+    "id": 30,
+    "template_id": 4
+  },
+  {
+    "question": "Among all authors affiliated with Southern California University of Health Sciences, which author has the highest total citation count?",
+    "answer": "Okezie I. Aruoma",
+    "id": 31,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with MIRA Ltd., which author has the highest total citation count?",
+    "answer": "Philip J. W. Roberts",
+    "id": 32,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with University of Evansville, which author has the highest total citation count?",
+    "answer": "Nasim Uddin",
+    "id": 33,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with University of Wollongong in Dubai, which author has the highest total citation count?",
+    "answer": "Mohd Fareq Abd Malek",
+    "id": 34,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Shri Vaishnav Institute of Technology and Science, which author has the highest total citation count?",
+    "answer": "Manvendra Kumar",
+    "id": 35,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with University of Haripur, which author has the highest total citation count?",
+    "answer": "Muhammad Farooq",
+    "id": 36,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with University of Venda, which author has the highest total citation count?",
+    "answer": "Titus A.M. Msagati",
+    "id": 37,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Prince Mohammad bin Fahd University, which author has the highest total citation count?",
+    "answer": "Ali J. Chamkha",
+    "id": 38,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Tokushima Bunri University, which author has the highest total citation count?",
+    "answer": "Tsutomu Yokozawa",
+    "id": 39,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Dayananda Sagar College of Engineering, which author has the highest total citation count?",
+    "answer": "Ramaiah Keshavamurthy",
+    "id": 40,
+    "template_id": 5
+  },
+  {
+    "question": "How many papers did author M. Nicoul write?",
+    "answer": "6",
+    "id": 41,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author I. L. Danilovich write?",
+    "answer": "5",
+    "id": 42,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author 王君林 Wang Junlin write?",
+    "answer": "5",
+    "id": 43,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Geor. M. Mikheev write?",
+    "answer": "4",
+    "id": 44,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Alan D. Chave write?",
+    "answer": "4",
+    "id": 45,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Hosun Moon write?",
+    "answer": "4",
+    "id": 46,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author José Sepulcre-Guilabert write?",
+    "answer": "3",
+    "id": 47,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Sina Ardebilchi Marand write?",
+    "answer": "3",
+    "id": 48,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Flavia Bongiovì write?",
+    "answer": "3",
+    "id": 49,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Ali Jassim Al-Zuhairi write?",
+    "answer": "3",
+    "id": 50,
+    "template_id": 6
+  },
+  {
+    "question": "Which is the most cited paper by author Kimberley Tait?",
+    "answer": "Size-Induced Reduction of Transition Pressure and Enhancement of Bulk Modulus of AlN Nanocrystals",
+    "id": 51,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Hinako Uchida?",
+    "answer": "Size-Induced Reduction of Transition Pressure and Enhancement of Bulk Modulus of AlN Nanocrystals",
+    "id": 52,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Joseph C. Mohammed?",
+    "answer": "Electroabsorption Spectroscopy Measurements of the Exciton Binding Energy, Electron–Hole Reduced Effective Mass, and Band Gap in the Perovskite CH3NH3PbI3",
+    "id": 53,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author David S. Ginger?",
+    "answer": "Impact of microstructure on local carrier lifetime in perovskite solar cells",
+    "id": 54,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Mark E. Ziffer?",
+    "answer": "Impact of microstructure on local carrier lifetime in perovskite solar cells",
+    "id": 55,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Philippe Cayot?",
+    "answer": "Silica-coated calcium pectinate beads for colonic drug delivery.",
+    "id": 56,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Ali Assifaoui?",
+    "answer": "Silica-coated calcium pectinate beads for colonic drug delivery.",
+    "id": 57,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Odile Chambin?",
+    "answer": "Applications of spray-drying in microencapsulation of food ingredients: An overview",
+    "id": 58,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Viswanatham Katta?",
+    "answer": "Electrospray Ionization Mass Spectrometric Analysis of Proteins",
+    "id": 59,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Brian T. Chait?",
+    "answer": "MALDI sample preparation: the ultra thin layer method.",
+    "id": 60,
+    "template_id": 7
+  },
+  {
+    "question": "Who collaborate with author Mengyi Tang to write paper \"B (boron), O (oxygen) dual-doped carbon spheres as a high-efficiency electrocatalyst for nitrogen reduction\"?",
+    "answer": "Dunmin Lin, Miao He, Na Jiang, Qiaoji Zheng, and Xiaoli Jiang",
+    "id": 61,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author P. Konsin to write paper \"Anisotropic 3D fluctuations conductivity in Bi2Sr2CaCu2O8+δ films\"?",
+    "answer": "B. Sorkin, I. P. Papavasiliou, J. Pedarnig, R. Rössler, and S. K. Patapis",
+    "id": 62,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author H. Bagla to write paper \"Synthesis, Structural Characterization and Thermal Stability of Nanocrystalline Rare-Earth Chromates (RECrO 4 ) and Rare-Earth Chromites (RECrO 3 )\"?",
+    "answer": "A. K. Tyagi, D. Ghonge, J. Thakur, N. Raje, and R. Shukla",
+    "id": 63,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Scott A. Hanson to write paper \"Cyclotrigallazane, [H2GaNH2]3. Its preparation, structure, and conversion to cubic gallium nitride at 150.degree.C\"?",
+    "answer": "Doyle Britton, Jen Wei Hwang, John F. Evans, Klavs F. Jensen, and Wayne L. Gladfelter",
+    "id": 64,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Joseph Nissan to write paper \"Heat transfer of impression plasters to an implant-bone interface.\"?",
+    "answer": "David Assif, Eitan Barnea, M. Gross, and Zeev Ormianer",
+    "id": 65,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Yiqing Ni to write paper \"Fatigue reliability assessment of welded joints in steel bridges considering multiple effects\"?",
+    "answer": "Dabao Fu, Kaiyuen Wong, Shaofei Jiang, and Xiaowei Ye",
+    "id": 66,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Liang Xiaobo to write paper \"Coarsening behavior of lamellar orthorhombic phase and its effect on tensile properties for the Ti–22Al–25Nb alloy\"?",
+    "answer": "Wang Wei, Xue Chen, Zeng Weidong, and Zhang Jianwei",
+    "id": 67,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Huijie Dong to write paper \"Hybrid Application of Nanoparticles and Polymer in Enhanced Oil Recovery Processes.\"?",
+    "answer": "Afshin Davarpanah, Maria Mikhailova, Yanqiu Hu, and Zeyuan Zhao",
+    "id": 68,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Zhao-Yan Sun to write paper \"A simulation model for soft triblock Janus particles and their ordered packing\"?",
+    "answer": "Lijia An, You-Liang Zhu, Zhan-Wei Li, and Zhong-Yuan Lu",
+    "id": 69,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Shiyan Chen to write paper \"Synthesis and characterization of a quinoxaline compound containing polyphenylphenyl and strong electron-accepting groups, and its multiple applications in electroluminescent devices\"?",
+    "answer": "Chong-an Di, Gui Yu, Xinjun Xu, and Yunqi Liu",
+    "id": 70,
+    "template_id": 8
+  },
+  {
+    "question": "Who is the closest collaborator with author Jörg Neidhardt?",
+    "answer": "Lars Hultman",
+    "id": 71,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Charmayne Smith?",
+    "answer": "Kathleen Richardson",
+    "id": 72,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Do Van Cong?",
+    "answer": "Nguyen Vu Giang",
+    "id": 73,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Haesang Jeong?",
+    "answer": "Seungwon Jeon",
+    "id": 74,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author J.L. Rosas-Huerta?",
+    "answer": "Raul Escamilla",
+    "id": 75,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Paula C. Rodrigues?",
+    "answer": "Leni Akcelrud",
+    "id": 76,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Dheeraj Velicheti?",
+    "answer": "Peter B. Nagy",
+    "id": 77,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Florentina Neațu?",
+    "answer": "Mihaela Florea",
+    "id": 78,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Yuri M. Zhukov?",
+    "answer": "Sergei I. Tverdokhlebov",
+    "id": 79,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Nor Faridah Hanim?",
+    "answer": "Jalil Ali",
+    "id": 80,
+    "template_id": 9
+  },
+  {
+    "question": "How many papers did Carles Cané and Isabel Gràcia write together?",
+    "answer": "144",
+    "id": 81,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Andreas D. Wieck and Dirk Reuter write together?",
+    "answer": "143",
+    "id": 82,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Chakravarthula S.K. Raju and P. H. Nirmala write together?",
+    "answer": "3",
+    "id": 83,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Claire Strain-Damerell and Nathan T. Wright write together?",
+    "answer": "43",
+    "id": 84,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Xiwu Li and Lizhen Yan write together?",
+    "answer": "41",
+    "id": 85,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Peter H. Beton and Zakhar R. Kudrynskyi write together?",
+    "answer": "10",
+    "id": 86,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Fatih Omer Ilday and Frank W. Wise write together?",
+    "answer": "29",
+    "id": 87,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Yung P. Koh and Sindee L. Simon write together?",
+    "answer": "28",
+    "id": 88,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did John P. Puccinelli and J. Louis Hinshaw write together?",
+    "answer": "2",
+    "id": 89,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did William R. Ketterhagen and Carl Wassgren write together?",
+    "answer": "16",
+    "id": 90,
+    "template_id": 10
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2001?",
+    "answer": "ROOM-TEMPERATURE ULTRAVIOLET NANOWIRE NANOLASERS",
+    "id": 91,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2019?",
+    "answer": "Single-Junction Organic Solar Cell with over 15% Efficiency Using Fused-Ring Acceptor with Electron-Deficient Core",
+    "id": 92,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2002?",
+    "answer": "Carbon Nanotubes--the Route Toward Applications",
+    "id": 93,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2000?",
+    "answer": "Interpretation of Raman spectra of disordered and amorphous carbon",
+    "id": 94,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2021?",
+    "answer": "Efficient perovskite solar cells via improved carrier management",
+    "id": 95,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2015?",
+    "answer": "High-performance photovoltaic perovskite layers fabricated through intramolecular exchange",
+    "id": 96,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2005?",
+    "answer": "A COMPREHENSIVE REVIEW OF ZNO MATERIALS AND DEVICES",
+    "id": 97,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2014?",
+    "answer": "Black phosphorus field-effect transistors",
+    "id": 98,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2017?",
+    "answer": "Scanning Electron Microscopy and X-Ray Microanalysis",
+    "id": 99,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2004?",
+    "answer": "Room-temperature fabrication of transparent flexible thin-film transistors using amorphous oxide semiconductors",
+    "id": 100,
+    "template_id": 11
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2015?",
+    "answer": "Chinese Academy of Sciences, Russian Academy of Sciences, and Tsinghua University",
+    "id": 101,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2016?",
+    "answer": "Chinese Academy of Sciences, Russian Academy of Sciences, and Tsinghua University",
+    "id": 102,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2011?",
+    "answer": "Chinese Academy of Sciences, Russian Academy of Sciences, and Centre national de la recherche scientifique",
+    "id": 103,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2003?",
+    "answer": "Chinese Academy of Sciences, Russian Academy of Sciences, and Centre national de la recherche scientifique",
+    "id": 104,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2000?",
+    "answer": "Russian Academy of Sciences, Centre national de la recherche scientifique, and Chinese Academy of Sciences",
+    "id": 105,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2019?",
+    "answer": "Chinese Academy of Sciences, Russian Academy of Sciences, and Tsinghua University",
+    "id": 106,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2008?",
+    "answer": "Chinese Academy of Sciences, Russian Academy of Sciences, and Centre national de la recherche scientifique",
+    "id": 107,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2010?",
+    "answer": "Chinese Academy of Sciences, Russian Academy of Sciences, and Centre national de la recherche scientifique",
+    "id": 108,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2006?",
+    "answer": "Chinese Academy of Sciences, Russian Academy of Sciences, and Centre national de la recherche scientifique",
+    "id": 109,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2004?",
+    "answer": "Chinese Academy of Sciences, Russian Academy of Sciences, and Centre national de la recherche scientifique",
+    "id": 110,
+    "template_id": 12
+  },
+  {
+    "question": "How many authors are there in Singapore National Eye Center?",
+    "answer": "151",
+    "id": 111,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Stockholm County Council?",
+    "answer": "52",
+    "id": 112,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in American College, Madurai?",
+    "answer": "55",
+    "id": 113,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Mbarara University of Science and Technology?",
+    "answer": "15",
+    "id": 114,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Universidad Popular Autónoma del Estado de Puebla?",
+    "answer": "49",
+    "id": 115,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in National Graduate Institute for Policy Studies?",
+    "answer": "10",
+    "id": 116,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in National Center for Genome Resources?",
+    "answer": "8",
+    "id": 117,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Petroleum Development Oman?",
+    "answer": "196",
+    "id": 118,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Thanlyin Technological University?",
+    "answer": "7",
+    "id": 119,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Seattle Cancer Care Alliance?",
+    "answer": "53",
+    "id": 120,
+    "template_id": 13
+  },
+  {
+    "question": "How many articles did Universidade Luterana do Brasil publish in 2017?",
+    "answer": "13",
+    "id": 121,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Beijing University of Civil Engineering and Architecture publish in 2010?",
+    "answer": "18",
+    "id": 122,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Entertainments National Service Association publish in 2018?",
+    "answer": "24",
+    "id": 123,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did European Laboratory for Non-Linear Spectroscopy publish in 2021?",
+    "answer": "36",
+    "id": 124,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Chonnam National University publish in 2001?",
+    "answer": "66",
+    "id": 125,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did University of Ontario Institute of Technology publish in 2016?",
+    "answer": "73",
+    "id": 126,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Süleyman Demirel University publish in 2020?",
+    "answer": "106",
+    "id": 127,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Graz University of Technology publish in 2014?",
+    "answer": "203",
+    "id": 128,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Toyota publish in 2013?",
+    "answer": "213",
+    "id": 129,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Ruhr University Bochum publish in 2019?",
+    "answer": "460",
+    "id": 130,
+    "template_id": 14
+  },
+  {
+    "question": "Among all authors who published papers in 2014, who has the highest total citation count?",
+    "answer": "Henry J. Snaith",
+    "id": 131,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2020, who has the highest total citation count?",
+    "answer": "Zhong Lin Wang",
+    "id": 132,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2003, who has the highest total citation count?",
+    "answer": "Younan Xia",
+    "id": 133,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2017, who has the highest total citation count?",
+    "answer": "Yury Gogotsi",
+    "id": 134,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2011, who has the highest total citation count?",
+    "answer": "Rodney S. Ruoff",
+    "id": 135,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2002, who has the highest total citation count?",
+    "answer": "Ray H. Baughman",
+    "id": 136,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2005, who has the highest total citation count?",
+    "answer": "Hadis Morkoç",
+    "id": 137,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2004, who has the highest total citation count?",
+    "answer": "Zhong Lin Wang",
+    "id": 138,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2010, who has the highest total citation count?",
+    "answer": "James Hone",
+    "id": 139,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2022, who has the highest total citation count?",
+    "answer": "Hyoung Seop Kim",
+    "id": 140,
+    "template_id": 15
+  },
+  {
+    "question": "Which institution published papers in 2001 has the highest total citation count?",
+    "answer": "Max Planck Society",
+    "id": 141,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2020 has the highest total citation count?",
+    "answer": "Chinese Academy of Sciences",
+    "id": 142,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2002 has the highest total citation count?",
+    "answer": "Max Planck Society",
+    "id": 143,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2006 has the highest total citation count?",
+    "answer": "Chinese Academy of Sciences",
+    "id": 144,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2022 has the highest total citation count?",
+    "answer": "Chinese Academy of Sciences",
+    "id": 145,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2018 has the highest total citation count?",
+    "answer": "Chinese Academy of Sciences",
+    "id": 146,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2021 has the highest total citation count?",
+    "answer": "Chinese Academy of Sciences",
+    "id": 147,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2015 has the highest total citation count?",
+    "answer": "Chinese Academy of Sciences",
+    "id": 148,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2000 has the highest total citation count?",
+    "answer": "Max Planck Society",
+    "id": 149,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2016 has the highest total citation count?",
+    "answer": "Chinese Academy of Sciences",
+    "id": 150,
+    "template_id": 16
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "question": "Who is the author(or authors) of the paper \"Prototyping and public art: design and field studies in locative media\"?",
+    "answer": "Brett Oppegaard",
+    "id": 1,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Permutations, partitions, et graphes\"?",
+    "answer": "Djalil Chafaï and Florent Malrieu",
+    "id": 2,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Automatic detection of sleep spindles using Teager energy and spectral edge frequency\"?",
+    "answer": "Esther Rodriguez-Villegas, Siavash Saremi-Yarahmadi, and Syed Anas Imtiaz",
+    "id": 3,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Influence of cultural factors on freehand gesture design\"?",
+    "answer": "Huiyue Wu, Jiali Qiu, Jianmin Wang, Jiayi Liu, Jinxuan Gai, Xiaolong Zhang, and Yu Wang",
+    "id": 4,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"1398Comparative Effectiveness of the Three Most Popular Automated Identification and Susceptibility Platforms for Testing Multidrug-resistant and Carbapenemase-producing Organisms\"?",
+    "answer": "Caroline Argyros, Emil Lesho, Lindsey Nielsen, Paige E. Waterman, Robert J. Clifford, Ronald P. Rabinowitz, and Yoon I. Kwak",
+    "id": 5,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Using Punctuation Schemes to Characterize Strategies for Querying over Data Streams\"?",
+    "answer": "David Maier, Peter A. Tucker, P. Stephens, and Tim Sheard",
+    "id": 6,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Event Stream Processing on Heterogeneous System Architecture\"?",
+    "answer": "Bernhard Seeger, Jakob Eckstein, Michael Körber, and Nikolaus Glombiewski",
+    "id": 7,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"The Effects Of Process Writing Approach On Upper Secondary Students Writing Performance\"?",
+    "answer": "Hazrimah Ab. Rahim and Ummul Khair Ahmad",
+    "id": 8,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Application of genetic algorithms to the manufacturing of large planar array antennas on radar applications\"?",
+    "answer": "Fernando Martin, J. Torres, Luis Rengifo, Manuel Sierra-Castaner, M. Vera, and S. Burgos",
+    "id": 9,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Creation operators for Cartesian and circular beams.\"?",
+    "answer": "Anibal Siguenza-Torres and Julio C. Gutiérrez-Vega",
+    "id": 10,
+    "template_id": 1
+  },
+  {
+    "question": "Which affiliation is Samet Keserci associated with?",
+    "answer": "Amazon.com",
+    "id": 11,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Wenhan Zhu associated with?",
+    "answer": "Shanghai Jiao Tong University",
+    "id": 12,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Kyosuke Ono associated with?",
+    "answer": "Tokyo Institute of Technology",
+    "id": 13,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Kathy Bohrer associated with?",
+    "answer": "IBM",
+    "id": 14,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Luis Kalb associated with?",
+    "answer": "Technische Universität München",
+    "id": 15,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is C. Ortega associated with?",
+    "answer": "Organization of American States",
+    "id": 16,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is F. Ventriglia associated with?",
+    "answer": "ARCO",
+    "id": 17,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Jacinto Arias associated with?",
+    "answer": "University of Castilla–La Mancha",
+    "id": 18,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Andrew Burleson associated with?",
+    "answer": "Northwestern University",
+    "id": 19,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Amrit S. Lotay associated with?",
+    "answer": "Durham University",
+    "id": 20,
+    "template_id": 2
+  },
+  {
+    "question": "How many papers cite the paper \"SLEEP mode techniques for small cell deployments\"?",
+    "answer": "335",
+    "id": 21,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Stabilization of networked control systems with nonuniform random sampling periods\"?",
+    "answer": "97",
+    "id": 22,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"BIRTH OF THE OBJECT: DETECTION OF OBJECTNESS AND EXTRACTION OF OBJECT SHAPE THROUGH OBJECT–ACTION COMPLEXES\"?",
+    "answer": "76",
+    "id": 23,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Readers, authors, and page structure: a discussion of four questions arising from a content analysis of Web pages\"?",
+    "answer": "69",
+    "id": 24,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Benchmarking a weighted negative covariance matrix update on the BBOB-2010 noiseless testbed\"?",
+    "answer": "51",
+    "id": 25,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Comparative study of a learning fuzzy PID controller and a self-tuning controller\"?",
+    "answer": "44",
+    "id": 26,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Modeling of Multiple Valued Gene Regulatory Networks\"?",
+    "answer": "24",
+    "id": 27,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Joint User Scheduling and Beam Selection Optimization for Beam-Based Massive MIMO Downlinks\"?",
+    "answer": "23",
+    "id": 28,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"A layered semantics for a parallel object-oriented language\"?",
+    "answer": "21",
+    "id": 29,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Circling over a Target with Relative Side Bearing\"?",
+    "answer": "21",
+    "id": 30,
+    "template_id": 4
+  },
+  {
+    "question": "Among all authors affiliated with NHS Fife, which author has the highest total citation count?",
+    "answer": "Edward I. George",
+    "id": 31,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Brazilian Development Bank, which author has the highest total citation count?",
+    "answer": "Francisco Cribari-Neto",
+    "id": 32,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Vancouver Community College, which author has the highest total citation count?",
+    "answer": "Panos Nasiopoulos",
+    "id": 33,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Deutsche Bundespost, which author has the highest total citation count?",
+    "answer": "Amardeo Sarma",
+    "id": 34,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with ViaSat, which author has the highest total citation count?",
+    "answer": "Edward A. Lee",
+    "id": 35,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Cherkasy National University, which author has the highest total citation count?",
+    "answer": "Vladimir N. Soloviev",
+    "id": 36,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with International Institute for Environment and Development, which author has the highest total citation count?",
+    "answer": "John Thompson",
+    "id": 37,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with EA Digital Illusions CE, which author has the highest total citation count?",
+    "answer": "Jean-Jacques Quisquater",
+    "id": 38,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with KCG College of Technology, which author has the highest total citation count?",
+    "answer": "Sellappan Palaniappan",
+    "id": 39,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Robert Morris University, which author has the highest total citation count?",
+    "answer": "Jameela Al-Jaroodi",
+    "id": 40,
+    "template_id": 5
+  },
+  {
+    "question": "How many papers did author Joseph T. Yun write?",
+    "answer": "6",
+    "id": 41,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Catherine Roullier write?",
+    "answer": "6",
+    "id": 42,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Liu Baoxi write?",
+    "answer": "5",
+    "id": 43,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Shangding Gu write?",
+    "answer": "5",
+    "id": 44,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Philipp Dominik Schubert write?",
+    "answer": "5",
+    "id": 45,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Peikun Zhu write?",
+    "answer": "4",
+    "id": 46,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Sadia Basar write?",
+    "answer": "4",
+    "id": 47,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Ruofei Zhu write?",
+    "answer": "4",
+    "id": 48,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Israel F. Araujo write?",
+    "answer": "4",
+    "id": 49,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Aqwam Rosadi Kardian, SKom, Mm, Aqwam Rosadi Kardian, SKom, Mm write?",
+    "answer": "4",
+    "id": 50,
+    "template_id": 6
+  },
+  {
+    "question": "Which is the most cited paper by author Ichirō Nabeshima?",
+    "answer": "Mathematical aspects of scheduling and applications",
+    "id": 51,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Mohammad O. Pervaiz?",
+    "answer": "Maximum network lifetime in wireless sensor networks with adjustable sensing ranges",
+    "id": 52,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author ItzhakyShachar?",
+    "answer": "A simple inductive synthesis methodology and its applications",
+    "id": 53,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Barrie Dale?",
+    "answer": "Business process management: a review and evaluation",
+    "id": 54,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author H.S. Bunney?",
+    "answer": "The implementation of quality management tools and techniques: a study",
+    "id": 55,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Lik Yin Ng?",
+    "answer": "A Multiobjective Optimization-Based Approach for Optimal Chemical Product Design",
+    "id": 56,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Nishanth G. Chemmangattuvalappil?",
+    "answer": "Efficient Visual Mixture Design of Experiments using Property Clustering Techniques",
+    "id": 57,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Viknesh Andiappan?",
+    "answer": "Synthesis of Biomass-based Trigeneration Systems with Uncertainties",
+    "id": 58,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Denny K. S. Ng?",
+    "answer": "Synthesis of Direct and Indirect Interplant Water Network",
+    "id": 59,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Raymond E. Spier?",
+    "answer": "Some myths and messages concerning the batch and continuous culture of animal cells.",
+    "id": 60,
+    "template_id": 7
+  },
+  {
+    "question": "Who collaborate with author Lisa Reichert to write paper \"Visual evaluation of outlier detection models\"?",
+    "answer": "Arthur Zimek, Elke Achtert, Erich Schubert, Hans-Peter Kriegel, and Remigius Wojdanowski",
+    "id": 61,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author M. B. Etezova to write paper \"Mathematical Analysis of the Maltus Population Model in a Variable Environment\"?",
+    "answer": "A. Kh. Zhemukhov, Arslan A. Kaygermazov, Diana A. Khashkhozheva, F. Kh. Kudayeva, and S. B. Balkarova",
+    "id": 62,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Mahdi Shaneh to write paper \"Application of IoT in Smart Grid: Challenges and Solutions\"?",
+    "answer": "Gevork B. Gharehpetian, Hossein Shahinzadeh, Majid Moazzami, Niloufar Sheini-Shahvand, and Zahra Davoody-Beni",
+    "id": 63,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Viktor Sverdlov to write paper \"Reinforcement Learning Approach for Sub-Critical Current SOT-MRAM Switching\"?",
+    "answer": "Johannes Ender, Roberto Lacerda de Orio, Siegfried Selberherr, Simone Fiorentini, and Wolfgang Goes",
+    "id": 64,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Chunqiang Hu to write paper \"Secure and Efficient Data Communication Protocol for Wireless Body Area Networks\"?",
+    "answer": "Hongjuan Li, Tao Xiang, Xiaofeng Liao, and Yan Huo",
+    "id": 65,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Shuzhe Chen to write paper \"A Hybrid Model for Vessel Traffic Flow Prediction Based on Wavelet and Prophet\"?",
+    "answer": "Cheng Xie, Dangli Wang, Yangran Meng, and Zhao Liu",
+    "id": 66,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Lijing Tan to write paper \"Vehicle routing problem with time windows based on adaptive bacterial foraging optimization\"?",
+    "answer": "Ben Niu, Hong Wang, Jingwen Wang, and Li Li",
+    "id": 67,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Gerhard-Wilhelm Weber to write paper \"New Optimization Methods in Data Mining\"?",
+    "answer": "Başak Akteke-Öztürk, Süureyya Özöğür-Akyüz, and Tatiana Tchemisova",
+    "id": 68,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Javed I. Khan to write paper \"A symbol recognition system\"?",
+    "answer": "D.Y.Y. Yun, H. Liu, and T. Cheng",
+    "id": 69,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Christian Bayer to write paper \"Pricing high-dimensional Bermudan options with hierarchical tensor formats.\"?",
+    "answer": "Leon Sallandt, Martin Eigel, and Philipp Trunschke",
+    "id": 70,
+    "template_id": 8
+  },
+  {
+    "question": "Who is the closest collaborator with author James M. Kang?",
+    "answer": "Shashi Shekhar",
+    "id": 71,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author H. Fahmi?",
+    "answer": "Arif Ghafoor",
+    "id": 72,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Pablo Graubner?",
+    "answer": "Bernd Freisleben",
+    "id": 73,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Qirun Zhang?",
+    "answer": "Zhendong Su",
+    "id": 74,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Wiesław Wróblewski?",
+    "answer": "Krzysztof Sibilski",
+    "id": 75,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Mahlagha Afrasiabi?",
+    "answer": "Hassan Khotanlou",
+    "id": 76,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Tariq Soussan?",
+    "answer": "Marcello Trovati",
+    "id": 77,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author William C. Skamarock?",
+    "answer": "Joseph B. Klemp",
+    "id": 78,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Kais Rouis?",
+    "answer": "Mickael Coustaty",
+    "id": 79,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Joanne Woodage?",
+    "answer": "Thomas Ristenpart",
+    "id": 80,
+    "template_id": 9
+  },
+  {
+    "question": "How many papers did Michel Grédiac and Benoît Blaysat write together?",
+    "answer": "15",
+    "id": 81,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Ahmed Essadki and Tamou Nasser write together?",
+    "answer": "55",
+    "id": 82,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Antonio J. Acosta and José L. Huertas write together?",
+    "answer": "11",
+    "id": 83,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Pedro Reviriego and Juan Antonio Maestro write together?",
+    "answer": "131",
+    "id": 84,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Teresa Serrano-Gotarredona and Bernabe Linares-Barranco write together?",
+    "answer": "108",
+    "id": 85,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Pedro Pedrosa Rebouças Filho and Victor Hugo C. de Albuquerque write together?",
+    "answer": "50",
+    "id": 86,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Diego Salas-Gonzalez and Fermín Segovia write together?",
+    "answer": "67",
+    "id": 87,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Shahab Fatima and Amiya R Mohanty write together?",
+    "answer": "3",
+    "id": 88,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Tang Huaizhuang and Xing Xiaoming write together?",
+    "answer": "2",
+    "id": 89,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Kirill Kogan and Sergey I. Nikolenko write together?",
+    "answer": "43",
+    "id": 90,
+    "template_id": 10
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2001?",
+    "answer": "MRBAYES: Bayesian inference of phylogenetic trees",
+    "id": 91,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2019?",
+    "answer": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+    "id": 92,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2002?",
+    "answer": "Particle swarm optimization",
+    "id": 93,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2000?",
+    "answer": "Data Mining: Concepts and Techniques",
+    "id": 94,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2021?",
+    "answer": "Combinatorial optimization: networks and matroids",
+    "id": 95,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2015?",
+    "answer": "Adam: A Method for Stochastic Optimization",
+    "id": 96,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2005?",
+    "answer": "Histograms of oriented gradients for human detection",
+    "id": 97,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2014?",
+    "answer": "R: A language and environment for statistical computing.",
+    "id": 98,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2017?",
+    "answer": "Attention is All you Need",
+    "id": 99,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2004?",
+    "answer": "Distinctive Image Features from Scale-Invariant Keypoints",
+    "id": 100,
+    "template_id": 11
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2015?",
+    "answer": "Chinese Academy of Sciences, Tsinghua University, and Carnegie Mellon University",
+    "id": 101,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2016?",
+    "answer": "Chinese Academy of Sciences, Tsinghua University, and Beijing University of Posts and Telecommunications",
+    "id": 102,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2011?",
+    "answer": "Chinese Academy of Sciences, Tsinghua University, and IBM",
+    "id": 103,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2003?",
+    "answer": "IBM, Tsinghua University, and Carnegie Mellon University",
+    "id": 104,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2000?",
+    "answer": "IBM, Massachusetts Institute of Technology, and Stanford University",
+    "id": 105,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2019?",
+    "answer": "Chinese Academy of Sciences, Tsinghua University, and Shanghai Jiao Tong University",
+    "id": 106,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2008?",
+    "answer": "Chinese Academy of Sciences, Tsinghua University, and IBM",
+    "id": 107,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2010?",
+    "answer": "Chinese Academy of Sciences, Tsinghua University, and IBM",
+    "id": 108,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2006?",
+    "answer": "Tsinghua University, Chinese Academy of Sciences, and IBM",
+    "id": 109,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2004?",
+    "answer": "IBM, Tsinghua University, and Chinese Academy of Sciences",
+    "id": 110,
+    "template_id": 12
+  },
+  {
+    "question": "How many authors are there in Seoul Women's University?",
+    "answer": "204",
+    "id": 111,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Royal Institution?",
+    "answer": "133",
+    "id": 112,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Save the Children?",
+    "answer": "54",
+    "id": 113,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Financial Supervisory Service?",
+    "answer": "6",
+    "id": 114,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Public Works and Government Services Canada?",
+    "answer": "20",
+    "id": 115,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Northern Hospital?",
+    "answer": "55",
+    "id": 116,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Sonoda Women's University?",
+    "answer": "5",
+    "id": 117,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Ministry of Science and Innovation?",
+    "answer": "40",
+    "id": 118,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Institut für Arbeitsmarkt- und Berufsforschung?",
+    "answer": "54",
+    "id": 119,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Academy of Medical Royal Colleges?",
+    "answer": "10",
+    "id": 120,
+    "template_id": 13
+  },
+  {
+    "question": "How many articles did Jean Monnet University publish in 2017?",
+    "answer": "17",
+    "id": 121,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Monterrey Institute of Technology and Higher Education publish in 2001?",
+    "answer": "19",
+    "id": 122,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Federal Aviation Administration publish in 2018?",
+    "answer": "28",
+    "id": 123,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Airbus Defence and Space publish in 2014?",
+    "answer": "30",
+    "id": 124,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Xiangtan University publish in 2016?",
+    "answer": "48",
+    "id": 125,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Urmia University of Technology publish in 2020?",
+    "answer": "71",
+    "id": 126,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did University of Reading publish in 2019?",
+    "answer": "164",
+    "id": 127,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did University of North Carolina at Charlotte publish in 2013?",
+    "answer": "208",
+    "id": 128,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did University of Guelph publish in 2021?",
+    "answer": "253",
+    "id": 129,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did University of Toulouse publish in 2010?",
+    "answer": "316",
+    "id": 130,
+    "template_id": 14
+  },
+  {
+    "question": "Among all authors who published papers in 2011, who has the highest total citation count?",
+    "answer": "Gaël Varoquaux",
+    "id": 131,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2008, who has the highest total citation count?",
+    "answer": "Christopher D. Manning",
+    "id": 132,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2004, who has the highest total citation count?",
+    "answer": "David G. Lowe",
+    "id": 133,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2006, who has the highest total citation count?",
+    "answer": "Christopher M. Bishop",
+    "id": 134,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2003, who has the highest total citation count?",
+    "answer": "Michael I. Jordan",
+    "id": 135,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2013, who has the highest total citation count?",
+    "answer": "Tomas Mikolov",
+    "id": 136,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2009, who has the highest total citation count?",
+    "answer": "Richard Durbin",
+    "id": 137,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2019, who has the highest total citation count?",
+    "answer": "Sam Gross",
+    "id": 138,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2014, who has the highest total citation count?",
+    "answer": "Yoshua Bengio",
+    "id": 139,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2016, who has the highest total citation count?",
+    "answer": "Kaiming He",
+    "id": 140,
+    "template_id": 15
+  },
+  {
+    "question": "Which institution published papers in 2011 has the highest total citation count?",
+    "answer": "Microsoft",
+    "id": 141,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2017 has the highest total citation count?",
+    "answer": "Google",
+    "id": 142,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2009 has the highest total citation count?",
+    "answer": "Microsoft",
+    "id": 143,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2002 has the highest total citation count?",
+    "answer": "IBM",
+    "id": 144,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2001 has the highest total citation count?",
+    "answer": "University of California, Berkeley",
+    "id": 145,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2000 has the highest total citation count?",
+    "answer": "Massachusetts Institute of Technology",
+    "id": 146,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2012 has the highest total citation count?",
+    "answer": "Microsoft",
+    "id": 147,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2014 has the highest total citation count?",
+    "answer": "Microsoft",
+    "id": 148,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2022 has the highest total citation count?",
+    "answer": "University of Leeds",
+    "id": 149,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2019 has the highest total citation count?",
+    "answer": "Google",
+    "id": 150,
+    "template_id": 16
+  }
+]

@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mmcot"
+version = "0.1.0"
+description = "MM-CoT research companion: scholarly graph and relational analytics"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "openai>=1.30,<3",
+  "psycopg2-binary>=2.9,<3",
+  "sentence-transformers>=3,<6",
+  "tiktoken>=0.7,<1",
+  "python-dotenv>=1,<2",
+]
+
+[project.urls]
+Repository = "https://github.com/whu-totemdb/MM-CoT"
+Issues = "https://github.com/whu-totemdb/MM-CoT/issues"
+
+[project.scripts]
+mmcot = "mmcot.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

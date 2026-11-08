@@ -1,0 +1,902 @@
+[
+  {
+    "question": "Who is the author(or authors) of the paper \"Stress reactions at slaughter and meat quality in pigs: genetic background and prior experience\"?",
+    "answer": "Claudia Terlouw",
+    "id": 1,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Phylogenetic relationships and biogeography of midwife toads (Discoglossidae: Alytes)\"?",
+    "answer": "Helena Gonçalves, Iñigo Martínez-Solano, Jan W. Arntzen, and Mario García-París",
+    "id": 2,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Chemical ecology and coevolution of interactions between plant mating and defence strategies\"?",
+    "answer": "Stuart Aylesworth Campbell",
+    "id": 3,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"47. Recombinant human FSH induced ovarian stimulation impairs in vitro embryo development in the mouse\"?",
+    "answer": "Jeremy G. Thompson and L. J. Edwards",
+    "id": 4,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Comparative morphology of Darevskia parvula (Lantz-Cyren 1936) (Sauria: Lacertidae) subspecies in Northeastern Anatolia, Turkey\"?",
+    "answer": "Çetin Ilgaz",
+    "id": 5,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Eastern Equine Encephalomyelitis\"?",
+    "answer": "Alan D. Liggett, Antonio Morilla, Jeffrey J. Zimmerman, and Kyoung-Jin Yoon",
+    "id": 6,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"[Occurrence of parasites, bacteria, viruses and fungi in fish that are pathogenic to men and fish].\"?",
+    "answer": "Beata Szostakowska, Dabrowski J, Grawiński Ie, Halina Pietkiewicz, Potajałło U, and Przemysław Myjak",
+    "id": 7,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Optimal Protein Level in the Formulated Diet for Acipenser gueldenstaedti Brandt\"?",
+    "answer": "Wang Chong-qing",
+    "id": 8,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"27. Thermophilic Anaerobic Sporeformers\"?",
+    "answer": "Elena Enache and Richard Podolak",
+    "id": 9,
+    "template_id": 1
+  },
+  {
+    "question": "Who is the author(or authors) of the paper \"Malignant Large Cell Calcifying Sertoli Cell Tumor of the Testis\"?",
+    "answer": "Armando Zuluaga, Francisco F. Nogales, Jose L. Garcia-Puche, and Miguel Andújar",
+    "id": 10,
+    "template_id": 1
+  },
+  {
+    "question": "Which affiliation is Tamaš Petrović associated with?",
+    "answer": "University of Ljubljana",
+    "id": 11,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Christain Alexander associated with?",
+    "answer": "Free University of Berlin",
+    "id": 12,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Gudrun Goehring associated with?",
+    "answer": "Hannover Medical School",
+    "id": 13,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is N. Carcelén associated with?",
+    "answer": "Complutense University of Madrid",
+    "id": 14,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Rolf Mentlein associated with?",
+    "answer": "University of Kiel",
+    "id": 15,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is K.G. Davey associated with?",
+    "answer": "University of Adelaide",
+    "id": 16,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is C.J.M. Arts associated with?",
+    "answer": "Ghent University",
+    "id": 17,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Alessandra Benedetto associated with?",
+    "answer": "University of Turin",
+    "id": 18,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is Walther Hild associated with?",
+    "answer": "University of Texas Medical Branch",
+    "id": 19,
+    "template_id": 2
+  },
+  {
+    "question": "Which affiliation is E Agsteribbe associated with?",
+    "answer": "University of Groningen",
+    "id": 20,
+    "template_id": 2
+  },
+  {
+    "question": "How many papers cite the paper \"Amphibians and Reptiles\"?",
+    "answer": "427",
+    "id": 21,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Molecular pathways in hepatocellular carcinoma\"?",
+    "answer": "87",
+    "id": 22,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Clinical Development of Leukocyte Cyclooxygenase 2 Activity as a Systemic Biomarker for Cancer Chemopreventive Agents\"?",
+    "answer": "78",
+    "id": 23,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"T-cell tolerance and autoimmunity to systemic and tissue-restricted self-antigens.\"?",
+    "answer": "75",
+    "id": 24,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Assessing the risk of lead exposure for the conservation of the endangered Pyrenean bearded vulture (Gypaetus barbatus) population.\"?",
+    "answer": "59",
+    "id": 25,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"The Tup1 corepressor directs Htz1 deposition at a specific promoter nucleosome marking the GAL1 gene for rapid activation.\"?",
+    "answer": "37",
+    "id": 26,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Metabolomics of Oxidative Stress in Recent Studies of Endogenous and Exogenously Administered Intermediate Metabolites\"?",
+    "answer": "35",
+    "id": 27,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"Survival, Dispersal, and Primary Infection Site for Cercospora beticola in Sugar Beet.\"?",
+    "answer": "35",
+    "id": 28,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"The role of carbon in fungal nutrient uptake and transport: implications for resource exchange in the arbuscular mycorrhizal symbiosis.\"?",
+    "answer": "34",
+    "id": 29,
+    "template_id": 4
+  },
+  {
+    "question": "How many papers cite the paper \"A conserved immunogenic and vulnerable site on the coronavirus spike protein delineated by cross-reactive monoclonal antibodies.\"?",
+    "answer": "31",
+    "id": 30,
+    "template_id": 4
+  },
+  {
+    "question": "Among all authors affiliated with St Columba's College, Dublin, which author has the highest total citation count?",
+    "answer": "Vandana Bharti",
+    "id": 31,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Norwegian Environment Agency, which author has the highest total citation count?",
+    "answer": "Jon E. Swenson",
+    "id": 32,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Baton Rouge Community College, which author has the highest total citation count?",
+    "answer": "Margaret McMichael",
+    "id": 33,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Ecologic Brands, Inc., which author has the highest total citation count?",
+    "answer": "Patrick S. Fitze",
+    "id": 34,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Fulda University of Applied Sciences, which author has the highest total citation count?",
+    "answer": "Marc Birringer",
+    "id": 35,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with University of America, which author has the highest total citation count?",
+    "answer": "John H. Connor",
+    "id": 36,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with Valve Corporation, which author has the highest total citation count?",
+    "answer": "John C. Chambers",
+    "id": 37,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with University of Bahrain, which author has the highest total citation count?",
+    "answer": "John C. Bythell",
+    "id": 38,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with University of Fort Hare, which author has the highest total citation count?",
+    "answer": "Donald Grierson",
+    "id": 39,
+    "template_id": 5
+  },
+  {
+    "question": "Among all authors affiliated with University of Ilorin, which author has the highest total citation count?",
+    "answer": "Deane F. Mosher",
+    "id": 40,
+    "template_id": 5
+  },
+  {
+    "question": "How many papers did author Robert S. Bowen write?",
+    "answer": "8",
+    "id": 41,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Nazik Rayman write?",
+    "answer": "6",
+    "id": 42,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Renzo Kondo write?",
+    "answer": "4",
+    "id": 43,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author W. J. Yule write?",
+    "answer": "4",
+    "id": 44,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author C Michael Raper write?",
+    "answer": "4",
+    "id": 45,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Tamara Pirtskhalava write?",
+    "answer": "4",
+    "id": 46,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Kadir Sipahi write?",
+    "answer": "3",
+    "id": 47,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Natalie Uomini write?",
+    "answer": "3",
+    "id": 48,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Justin D. Klein write?",
+    "answer": "3",
+    "id": 49,
+    "template_id": 6
+  },
+  {
+    "question": "How many papers did author Nagayeva Li write?",
+    "answer": "3",
+    "id": 50,
+    "template_id": 6
+  },
+  {
+    "question": "Which is the most cited paper by author K.P.C. Janssen?",
+    "answer": "Expression of the crustacean hyperglycaemic hormones and the gonad-inhibiting hormone during the reproductive cycle of the female American lobster Homarus americanus",
+    "id": 51,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Supriya G. Prasanth?",
+    "answer": "The nuclear-retained noncoding RNA MALAT1 regulates alternative splicing by modulating SR splicing factor phosphorylation.",
+    "id": 52,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Kannanganattu V. Prasanth?",
+    "answer": "The nuclear-retained noncoding RNA MALAT1 regulates alternative splicing by modulating SR splicing factor phosphorylation.",
+    "id": 53,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Lorne R. Adam?",
+    "answer": "Chitosan in plant protection",
+    "id": 54,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Fouad Daayf?",
+    "answer": "The Top 10 oomycete pathogens in molecular plant pathology",
+    "id": 55,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Aerts L?",
+    "answer": "The endocrine pancreas during pregnancy and lactation in the rat.",
+    "id": 56,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Marynissen G?",
+    "answer": "The endocrine pancreas during pregnancy and lactation in the rat.",
+    "id": 57,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author Luis M. Garcia-Segura?",
+    "answer": "Neuroprotection by estradiol.",
+    "id": 58,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author James W. Black?",
+    "answer": "Further analysis of anomalous pKB values for histamine H2-receptor antagonists on the mouse isolated stomach assay",
+    "id": 59,
+    "template_id": 7
+  },
+  {
+    "question": "Which is the most cited paper by author S. Barret Kalindjian?",
+    "answer": "Gastrin agonists and antagonists.",
+    "id": 60,
+    "template_id": 7
+  },
+  {
+    "question": "Who collaborate with author Sung Hyuk Choi to write paper \"Arginine is Essential in Reversing Prostaglandin E2 T-Cell Suppression by Hypertonic Saline\"?",
+    "answer": "Jim Putnam, Raul Coimbra, Todd W. Costantini, Vishal Bansal, and William F. Loomis",
+    "id": 61,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Konii Puhle Japheth to write paper \"Effect of Mustard Oil Supplementation During Transition Period on Milk Composition and Calves's Birth Weight in Murrah Buffaloes\"?",
+    "answer": "Arumugam Kumaresan, Dimpee Singh Gonge, Mayur Raju Thul, Pranay Bharti, and P. S. Oberoi",
+    "id": 62,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author S. Etcheverry to write paper \"Antimicrobial Activity of Xanthium cavanillesii. Extracts\"?",
+    "answer": "Ana Vázquez, M.P. Cerdeiras, M. Soubes, S. Alborés, and V. Lucián",
+    "id": 63,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Susan E. Murray to write paper \"Constitutive expression of NF-κB inducing kinase in regulatory T cells impairs suppressive function and promotes instability and pro-inflammatory cytokine production\"?",
+    "answer": "Arian Anderson, David C. Parker, Fanny Polesso, and Minhazur Sarker",
+    "id": 64,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Jérôme Gautier to write paper \"Variation in home-range size and movements of wintering dabbling ducks\"?",
+    "answer": "Christine Blaize, Franck Latraube, Pierre Legagneux, and Vincent Bretagnolle",
+    "id": 65,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author S. Vieths to write paper \"Transfection of a rat cell line with the genes of the human high affinity IgE receptor yields a model mast cell that reacts with human IgE\"?",
+    "answer": "D. Haustein, D. Lüttkopf, Lina Hatahet, and Lothar Vogel",
+    "id": 66,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Ilse Coene to write paper \"Rapid and Sensitive Detection of BRCA1/2 Mutations in a Diagnostic Setting: Comparison of Two High-Resolution Melting Platforms\"?",
+    "answer": "Anne De Paepe, Bruce Poppe, Kathleen Claes, and Kim De Leeneer",
+    "id": 67,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Steven Grant to write paper \"c-kit expression by CD34+ bone marrow progenitors and inhibition of response to recombinant human interleukin-3 following exposure to c-kit antisense oligonucleotides\"?",
+    "answer": "Eric H. Westin, Joseph P. Catlett, Julie A. Leftwich, and Thomas F. Huff",
+    "id": 68,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Terry Hanson to write paper \"Effects of various levels of squid hydrolysate and squid meal supplementation with enzyme-treated soy on growth performance, body composition, serum biochemistry and histology of Florida pompano Trachinotus carolinus\"?",
+    "answer": "D. Allen Davis, Elizabeth Spangler, Melanie Rhodes, and Romi Novriadi",
+    "id": 69,
+    "template_id": 8
+  },
+  {
+    "question": "Who collaborate with author Susete do Rocio Chiarello Penteado to write paper \"Daily foraging activity of Acromyrmex (Hymenoptera: Formicidae) leaf-cutting ants.\"?",
+    "answer": "Marcio R. Pie, Mariane Aparecida Nickele, and Wilson Reis Filho",
+    "id": 70,
+    "template_id": 8
+  },
+  {
+    "question": "Who is the closest collaborator with author Andrew Clear?",
+    "answer": "John G. Gribben",
+    "id": 71,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Secondo Sonza?",
+    "answer": "Suzanne M. Crowe",
+    "id": 72,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Peter M. Voorhees?",
+    "answer": "Robert Z. Orlowski",
+    "id": 73,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Hideto Nakamura?",
+    "answer": "Ken Sawada",
+    "id": 74,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Ramadan Ajredini?",
+    "answer": "Arthur S. Edison",
+    "id": 75,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Z. E. Grushetskaya?",
+    "answer": "V. A. Lemesh",
+    "id": 76,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Sachiko Nagasawa?",
+    "answer": "Takahisa Nemoto",
+    "id": 77,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Stella Mamaeva?",
+    "answer": "Nikolai Mamaev",
+    "id": 78,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Franz M. Weinert?",
+    "answer": "Rob Phillips",
+    "id": 79,
+    "template_id": 9
+  },
+  {
+    "question": "Who is the closest collaborator with author Erin M. Griffiths?",
+    "answer": "Jason Stevens",
+    "id": 80,
+    "template_id": 9
+  },
+  {
+    "question": "How many papers did Sávio Stefanini Sant'Anna and Eduardo Oliveira Venancio de Lima write together?",
+    "answer": "5",
+    "id": 81,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Stefano Comazzi and Maria Elena Gelain write together?",
+    "answer": "11",
+    "id": 82,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Anna Vecchiarelli and Claudia Monari write together?",
+    "answer": "47",
+    "id": 83,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Martin Kváč and Bohumil Sak write together?",
+    "answer": "104",
+    "id": 84,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Jaime Letelier and Claudia A. Bustos write together?",
+    "answer": "3",
+    "id": 85,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Marzia Albenzio and Rosaria Marino write together?",
+    "answer": "40",
+    "id": 86,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Sarala K. Subbarao and Nutan Nanda write together?",
+    "answer": "28",
+    "id": 87,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Matheus D. Baldissera and Carine F. Souza write together?",
+    "answer": "114",
+    "id": 88,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Jessica R. Sheldon and David E. Heinrichs write together?",
+    "answer": "13",
+    "id": 89,
+    "template_id": 10
+  },
+  {
+    "question": "How many papers did Fábio Porto-Foresti and Diogo Teruo Hashimoto write together?",
+    "answer": "53",
+    "id": 90,
+    "template_id": 10
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2001?",
+    "answer": "Molecular Cloning: A Laboratory Manual",
+    "id": 91,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2019?",
+    "answer": "STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets.",
+    "id": 92,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2002?",
+    "answer": "Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes",
+    "id": 93,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2000?",
+    "answer": "Gene Ontology: tool for the unification of biology",
+    "id": 94,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2021?",
+    "answer": "Marschner's Mineral Nutrition of Higher Plants",
+    "id": 95,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2015?",
+    "answer": "limma powers differential expression analyses for RNA-sequencing and microarray studies",
+    "id": 96,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2005?",
+    "answer": "Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles",
+    "id": 97,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2014?",
+    "answer": "Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2",
+    "id": 98,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2017?",
+    "answer": "WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues",
+    "id": 99,
+    "template_id": 11
+  },
+  {
+    "question": "Which article has the most citations among the articles published in 2004?",
+    "answer": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+    "id": 100,
+    "template_id": 11
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2015?",
+    "answer": "Chinese Academy of Sciences, Harvard University, and National Institutes of Health",
+    "id": 101,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2016?",
+    "answer": "Chinese Academy of Sciences, Harvard University, and National Institutes of Health",
+    "id": 102,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2011?",
+    "answer": "National Institutes of Health, Harvard University, and Chinese Academy of Sciences",
+    "id": 103,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2003?",
+    "answer": "National Institutes of Health, Harvard University, and University of Tokyo",
+    "id": 104,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2000?",
+    "answer": "National Institutes of Health, Harvard University, and Centre national de la recherche scientifique",
+    "id": 105,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2019?",
+    "answer": "Chinese Academy of Sciences, Harvard University, and National Institutes of Health",
+    "id": 106,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2008?",
+    "answer": "National Institutes of Health, Harvard University, and Chinese Academy of Sciences",
+    "id": 107,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2010?",
+    "answer": "National Institutes of Health, Chinese Academy of Sciences, and Harvard University",
+    "id": 108,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2006?",
+    "answer": "National Institutes of Health, Harvard University, and Centre national de la recherche scientifique",
+    "id": 109,
+    "template_id": 12
+  },
+  {
+    "question": "What are the top three institutions with the highest number of publications in 2004?",
+    "answer": "National Institutes of Health, Harvard University, and Centre national de la recherche scientifique",
+    "id": 110,
+    "template_id": 12
+  },
+  {
+    "question": "How many authors are there in Stennis Space Center?",
+    "answer": "41",
+    "id": 111,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Incheon National University?",
+    "answer": "425",
+    "id": 112,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Bodoland University?",
+    "answer": "40",
+    "id": 113,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Southwest Florida Water Management District?",
+    "answer": "15",
+    "id": 114,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Singhania University?",
+    "answer": "44",
+    "id": 115,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Guangdong Institute of Education?",
+    "answer": "4",
+    "id": 116,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Chamber of commerce?",
+    "answer": "21",
+    "id": 117,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Centre for Infectious Disease Research in Zambia?",
+    "answer": "53",
+    "id": 118,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in The Polyclinic?",
+    "answer": "7",
+    "id": 119,
+    "template_id": 13
+  },
+  {
+    "question": "How many authors are there in Lithuanian Academy of Sciences?",
+    "answer": "148",
+    "id": 120,
+    "template_id": 13
+  },
+  {
+    "question": "How many articles did Autonomous University of Coahuila publish in 2013?",
+    "answer": "15",
+    "id": 121,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Instituto Federal Goiano publish in 2021?",
+    "answer": "20",
+    "id": 122,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Naval Medical Research Center publish in 2019?",
+    "answer": "24",
+    "id": 123,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Biotec publish in 2018?",
+    "answer": "43",
+    "id": 124,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Mahasarakham University publish in 2017?",
+    "answer": "45",
+    "id": 125,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did National Institute of Radiological Sciences publish in 2001?",
+    "answer": "49",
+    "id": 126,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Royal Belgian Institute of Natural Sciences publish in 2016?",
+    "answer": "124",
+    "id": 127,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did University of Auvergne publish in 2020?",
+    "answer": "185",
+    "id": 128,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Masaryk University publish in 2010?",
+    "answer": "202",
+    "id": 129,
+    "template_id": 14
+  },
+  {
+    "question": "How many articles did Universidade Federal Rural de Pernambuco publish in 2014?",
+    "answer": "253",
+    "id": 130,
+    "template_id": 14
+  },
+  {
+    "question": "Among all authors who published papers in 2015, who has the highest total citation count?",
+    "answer": "Stacey Gabriel",
+    "id": 131,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2005, who has the highest total citation count?",
+    "answer": "Todd R. Golub",
+    "id": 132,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2017, who has the highest total citation count?",
+    "answer": "Aviv Regev",
+    "id": 133,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2003, who has the highest total citation count?",
+    "answer": "Shizuo Akira",
+    "id": 134,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2008, who has the highest total citation count?",
+    "answer": "Thomas D. Schmittgen",
+    "id": 135,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2018, who has the highest total citation count?",
+    "answer": "Sudhir Kumar",
+    "id": 136,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2012, who has the highest total citation count?",
+    "answer": "Richard K. Wilson",
+    "id": 137,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2014, who has the highest total citation count?",
+    "answer": "Wolfgang Huber",
+    "id": 138,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2002, who has the highest total citation count?",
+    "answer": "Peer Bork",
+    "id": 139,
+    "template_id": 15
+  },
+  {
+    "question": "Among all authors who published papers in 2020, who has the highest total citation count?",
+    "answer": "Edward C. Holmes",
+    "id": 140,
+    "template_id": 15
+  },
+  {
+    "question": "Which institution published papers in 2013 has the highest total citation count?",
+    "answer": "Harvard University",
+    "id": 141,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2011 has the highest total citation count?",
+    "answer": "Harvard University",
+    "id": 142,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2001 has the highest total citation count?",
+    "answer": "National Institutes of Health",
+    "id": 143,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2014 has the highest total citation count?",
+    "answer": "Harvard University",
+    "id": 144,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2009 has the highest total citation count?",
+    "answer": "Harvard University",
+    "id": 145,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2006 has the highest total citation count?",
+    "answer": "Harvard University",
+    "id": 146,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2002 has the highest total citation count?",
+    "answer": "Harvard University",
+    "id": 147,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2019 has the highest total citation count?",
+    "answer": "Harvard University",
+    "id": 148,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2012 has the highest total citation count?",
+    "answer": "Harvard University",
+    "id": 149,
+    "template_id": 16
+  },
+  {
+    "question": "Which institution published papers in 2000 has the highest total citation count?",
+    "answer": "Harvard University",
+    "id": 150,
+    "template_id": 16
+  }
+]
