@@ -6,8 +6,7 @@ The release was checked on Windows with Python 3.12.14. All checks below complet
 
 - Compiled all release source files.
 - Ran 39 offline regression tests with Python's standard-library unittest runner.
-- Validated all five domain files: 746 QA records, unique per-domain IDs, valid template provenance, and matching release SHA-256 checksums.
-- Compared every question, answer, and original ID against the original merged QA files in source order; all values matched after removing the added `template_id` field.
+- Validated external QA loading, duplicate-ID rejection, and per-domain CLI inspection using temporary synthetic records. Tests do not require a bundled dataset.
 - Compared the retained research dataset descriptions, few-shot/zero-shot instructions, and both few-shot example collections against their original Python constants; all retained values matched exactly.
 - Loaded baseline modules without connecting to a database or API, including mocked Text RAG and one-hop Graph RAG queries.
 - Exercised multi-round relational operation chaining and final-answer detection with a scripted model and controlled execution results.

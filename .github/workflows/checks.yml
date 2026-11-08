@@ -15,6 +15,6 @@ jobs:
       - run: python -m unittest discover -s tests -v
         env:
           PYTHONPATH: src
-      - run: python -m mmcot inspect-data
+      - run: python -m mmcot --help
         env:
           PYTHONPATH: src

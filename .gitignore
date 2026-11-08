@@ -9,6 +9,7 @@ venv/
 build/
 dist/
 results/
+/data/
 *.log
 .pytest_cache/
 .ruff_cache/

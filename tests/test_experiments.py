@@ -1,6 +1,5 @@
-"""Dataset integrity, failed-run accounting, checkpointing, and command-line checks."""
+"""External QA input, failed-run accounting, checkpointing, and CLI checks."""
 
-import hashlib
 import io
 import json
 import tempfile
@@ -14,24 +13,14 @@ from mmcot.cli import build_parser, main, validate_experiment
 from mmcot.config import DOMAINS
 from mmcot.evaluation import evaluate, parse_judgment
 
-ROOT = Path(__file__).resolve().parents[1]
-
-
 class DataTests(unittest.TestCase):
-    def test_supplied_data_and_checksums(self):
-        manifest = json.loads((ROOT / "data/mrbench/manifest.json").read_text(encoding="utf-8"))
-        total = 0
-        for domain in DOMAINS:
-            with self.subTest(domain=domain):
-                entry = manifest["domains"][domain]
-                path = ROOT / "data/mrbench" / entry["file"]
-                records = load_questions(path)
-                self.assertEqual(len(records), entry["questions"])
-                self.assertEqual(hashlib.sha256(path.read_bytes()).hexdigest(), entry["release_sha256"])
-                self.assertEqual(len({record["question"] for record in records}), len(records))
-                self.assertEqual(set(record["template_id"] for record in records), {1, 2, *range(4, 17)})
-                total += len(records)
-        self.assertEqual(total, 746)
+    def test_external_qa_input_preserves_fields(self):
+        records = [{"id": 1, "question": "Example question?", "answer": "Example answer",
+                    "template_id": 4}]
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / "questions.json"
+            path.write_text(json.dumps(records), encoding="utf-8")
+            self.assertEqual(load_questions(path), records)
 
     def test_duplicate_ids_rejected(self):
         with tempfile.TemporaryDirectory() as folder:
@@ -98,9 +87,16 @@ class ExperimentTests(unittest.TestCase):
 
     def test_cli_inspection_without_dependencies(self):
         output = io.StringIO()
-        with redirect_stdout(output):
-            main(["inspect-data", "--data-dir", str(ROOT / "data/mrbench")])
-        self.assertEqual(json.loads(output.getvalue())["total"], 746)
+        with tempfile.TemporaryDirectory() as folder:
+            for domain in DOMAINS:
+                path = Path(folder) / f"{domain}.json"
+                path.write_text(json.dumps([{"id": 1, "question": "Example?", "answer": "Answer"}]),
+                                encoding="utf-8")
+            with redirect_stdout(output):
+                main(["inspect-data", "--data-dir", folder])
+        inspection = json.loads(output.getvalue())
+        self.assertEqual(inspection["total"], len(DOMAINS))
+        self.assertEqual(inspection["domains"], {domain: 1 for domain in DOMAINS})
 
     def test_cli_defaults_match_supplied_batch_scripts(self):
         parser = build_parser()

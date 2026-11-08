@@ -13,8 +13,8 @@
 | `*_batch_query.py` | `mmcot run`; shared runner, result format, and CLI |
 | `Graph_RAG_batch_query.py` | Discarded placeholder; replaced by the functioning shared runner |
 | `accuracy_checker.py`, `batch_accuracy_checker.py` | `mmcot evaluate`; retained comparison rules, strict judgment parsing, explicit failure counts |
-| Five merged `QA/*/*_QA.json` files | `data/mrbench/<Domain>.json`; content preserved with added `template_id` |
-| Per-template QA JSON and `QA/模板.md` | Used to trace template IDs; descriptions summarized in data documentation rather than duplicate QA copies |
+| Five merged `QA/*/*_QA.json` files | Excluded from the repository; local `data/` is ignored by Git |
+| Per-template QA JSON and `QA/模板.md` | Excluded dataset artifacts; supply QA files separately for experiments |
 | `QA/QA-Generate/`, `QA/Merge.py` | Excluded one-off database sampling and merge workflows; no unsupported data-regeneration claim |
 | `tools/PaperRetriver.py` | Excluded unused alternative retriever |
 | `MCPO-Server.py`, `MCPO-Server.md`, service-specific prompts/tests, `FRP/` | Excluded service and tunneling components |

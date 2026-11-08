@@ -4,7 +4,7 @@ This release is a refactored research companion. It retains the supplied researc
 
 ## What is present
 
-- All five available merged QA files, with original question/answer/ID values and added template provenance.
+- Code for loading user-supplied QA files; datasets are not distributed in this repository.
 - MM-CoT and a graph-only controller sharing the same lifecycle and parser.
 - Base LLM, node-metadata Text RAG, and one-hop Graph RAG configurations.
 - Explicit model IDs, temperature, step/token budgets, dataset hashes, timing, statuses, and operation traces in experiment outputs.
@@ -14,7 +14,7 @@ This release is a refactored research companion. It retains the supplied researc
 
 The full original scholarly database snapshot, ingestion and embedding scripts, vector files, exact dependency versions, historical model endpoint versions, and a reconciled set of scored question IDs are absent. Original result folders are excluded from this release. No scores are presented as newly reproduced paper results.
 
-The actual dataset has 746 records; Medicine has 146. Template 3 was retired. The paper reports dataset and accuracy tables, but those tables do not determine which available records were scored. In particular, neither a reported domain mean nor the available QA counts establishes a pooled, sample-level accuracy. Keep per-domain denominators explicit when comparing new experiments.
+Supply QA files separately with `--data-dir`. Each domain file is named `<Domain>.json` and contains a list of objects with `id`, `question`, and `answer`; `template_id` is optional. The local `data/` directory is ignored by Git. The paper reports dataset and accuracy tables, but those tables do not determine which records were scored. Neither a reported domain mean nor an independently prepared QA set establishes the historical sample-level accuracy. Keep per-domain denominators explicit when comparing new experiments.
 
 ## Controller behavior
 
